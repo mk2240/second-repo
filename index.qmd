@@ -12,7 +12,7 @@ library(ggplot2)
 
 #9
 ggplot(data = storms) +
-  geom_point(mapping = aes(x = pressure, y = wind),alpha = 0.2)
+  geom_point(mapping = aes(x = pressure, y = wind),color = "green")
 
 ```
 
