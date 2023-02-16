@@ -1,0 +1,25 @@
+---
+title: "week05"
+format:
+  html:
+    self-contained: true
+---
+
+```{r}
+#4
+library(tidyverse)
+library(ggplot2)
+
+#5
+
+```
+
+```{r}
+
+
+```
+
+```{r}
+
+
+```
