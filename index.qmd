@@ -10,7 +10,9 @@ format:
 library(tidyverse)
 library(ggplot2)
 
-#5
+#9
+ggplot(data = storms) +
+  geom_point(mapping = aes(x = pressure, y = wind),alpha = 0.2)
 
 ```
 
